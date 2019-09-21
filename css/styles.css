@@ -1,4 +1,10 @@
 h1{
     font-family: 'Cuprum', sans-serif;
-    font-size: 53px;
+    font-size: 61px;
+    text-align: center;
+}
+p{
+    font-family: 'Cuprum', sans-serif;
+    font-size: 18px;
+    text-align: center;
 }
