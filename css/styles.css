@@ -15,3 +15,9 @@ form{
     margin: auto;
     padding: 30px;
 }
+input[type=submit]{
+    padding: 5px;
+    font-size:13px;
+    width: 100px;
+
+}
