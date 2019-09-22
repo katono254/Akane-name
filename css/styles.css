@@ -10,3 +10,8 @@ p{
     text-align: center;
     color: blue;
 }
+form{
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+}
