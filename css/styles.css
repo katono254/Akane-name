@@ -2,7 +2,7 @@ h1{
     font-family: 'Cuprum', sans-serif;
     font-size: 61px;
     text-align: center;
-    color: brown;
+    color: rgb(42, 85, 165);
 }
 p{
     font-family: 'Cuprum', sans-serif;
@@ -20,4 +20,8 @@ input[type=submit]{
     font-size:13px;
     width: 100px;
 
+}
+html{
+    background-image: url(../css/justice.jpg);
+    
 }
