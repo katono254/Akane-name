@@ -3,6 +3,7 @@
 <head>
     <title>Web Application</title>
     <link href="css/styles.css" rel="stylesheet" type="text/css">
+    <link href="java/script.js">
 </head>
 <body>
     <div>
@@ -18,11 +19,13 @@
         </p>
     </p>
     </div>
-        <form>
+    <form name="myForm" onsubmit="event.preventDefault(); calculator()">
     <p>Gender</p>
-    <input type="radio" name="gender"> Male
-    <br>
-    <input type="radio" name="gender"> Female
+    <select name="gender" id="gender">
+        <option name="male" value="male">male</option>
+        <option name="female" value="female">female</option>
+    </select>
+    
      <br>
     <br>
     <p>YOUR DATE OF BIRTHDAY</p><br>
@@ -32,6 +35,6 @@
     
     </form>
    
-</body>
 <script> src="java/script.js"</script>
+</body>
 </html>
