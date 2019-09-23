@@ -16,7 +16,8 @@
 ## Technologies Used
 {The Engine uses Html,css and Java script to enamle the calculations.}
 ## Support and contact details
-{If you have any questions with the Eichen.}
+{If you have any questions with the Eichen Engine, feel free to contact me.Here are my details:
+blackrocket.47@gmail.com,254716613990.}
 ### License
 *{Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
